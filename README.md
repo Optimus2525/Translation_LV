@@ -1,2 +1,2 @@
 # Translation_LV
-Latvian translations
+Latvian translation of Google Calendar extention for Google Chrome
